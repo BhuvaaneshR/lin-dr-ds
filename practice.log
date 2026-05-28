@@ -1,0 +1,9 @@
+May 27 10:15:21 kali sshd[1452]: Failed password for root from 192.168.1.5
+May 27 10:15:40 kali sshd[1453]: Accepted password for bhuvaan from 172.217.24.14
+May 27 10:16:01 kali sudo: bhuvaan : COMMAND=/usr/bin/apt update
+May 27 10:16:44 kali sshd[1455]: Failed password for admin from 10.0.0.7
+May 27 10:17:11 kali kernel: USB device connected
+May 27 10:17:30 kali apache2: ERROR client denied by server configuration
+May 27 10:18:02 kali apache2: INFO Server started
+May 27 10:18:44 kali sshd[1459]: Accepted password for root from 8.8.8.8
+May 27 10:19:11 kali sudo: root : COMMAND=/usr/bin/systemctl restart apache2
