@@ -1,0 +1,33 @@
+banana
+Apple
+apple
+Zebra
+42
+7
+100
+9
+001
+10K
+2M
+512
+1G
+JAN
+FEB
+DEC
+Mar
+v1.2
+v1.10
+v1.3
+192.168.1.10
+192.168.1.2
+admin:x:1001
+root:x:0
+user:x:1005
+ERROR
+ warning
+INFO
+hello-world
+hello world
+  spaced
+zulu
+alpha
